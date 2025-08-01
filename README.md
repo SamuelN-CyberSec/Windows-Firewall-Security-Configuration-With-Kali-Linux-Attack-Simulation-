@@ -3,9 +3,7 @@ This project demonstrates how to configure the built in windows firewall on wind
 # Objective
 -Configure custom windows firewall inbound rule 
 -Simulate real-world attacks from Kali Linux (port scanning,ping test,) 
--monitor and analyze windows f<img width="769" alt="Windows Defende Firewall Inbound Rule" src="https://github.com/user-attachments/assets/1fc21bec-399a-4f5a-bc05-6d98571dd71a" />
-<img width="708" alt="kali Linux Communication to Windows 1" src="https://github.com/user-attachments/assets/6c576217-7cdf-4779-852e-f32da02017e7" />
-irewall logs 
+-monitor and analyze windows 
 -Document network setup and findings
 
 ###Tool Used 
@@ -38,6 +36,10 @@ Lesson Learned
 ##Screenshots
 *Firewall Inbound Rules
 *Kali nmap result
+
+f<img width="769" alt="Windows Defende Firewall Inbound Rule" src="https://github.com/user-attachments/assets/1fc21bec-399a-4f5a-bc05-6d98571dd71a" />
+<img width="708" alt="kali Linux Communication to Windows 1" src="https://github.com/user-attachments/assets/6c576217-7cdf-4779-852e-f32da02017e7" />
+irewall logs 
  
 Future improvement
 *Adding IDS tool (snort) to the enviromment 
