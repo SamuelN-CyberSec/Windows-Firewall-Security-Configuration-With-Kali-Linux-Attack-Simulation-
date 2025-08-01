@@ -6,12 +6,12 @@ This project demonstrates how to configure the built in windows firewall on wind
 -monitor and analyze windows 
 -Document network setup and findings
 
-###Tool Used 
-- Windows 11**(Host Machine )
-- Kali Linux**(Virtual Box guest Machine )
-- VirtualBox** (Virtual environment)
--**Nmap**,ping
-- **Windows Defender Firewall with Advanced Security **
+# Tool Used 
+- Windows 11 (Host Machine )
+- Kali Linux(Virtual Box guest Machine )
+- VirtualBox (Virtual environment)
+- Nmap,ping
+- Windows Defender Firewall with Advanced Security **
 
 
 Network Setup 
